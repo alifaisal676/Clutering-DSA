@@ -10,7 +10,7 @@
 using namespace std;
 double radius = 250;
 double incrementInRadians = 0.008 * 4;
-// double VERTICES_PER_CIRCLE = (2 * PI) / incrementInRadians;
+// double VERTICES_PER_CIRCLE = (2 * PI) / incrementInRadians
 double incrementRadius = -50;
 struct vertex;
 struct neighbor
